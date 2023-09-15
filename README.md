@@ -3,7 +3,7 @@
 Here is the Medium blog post I have written: https://medium.com/@cp.josejesus/tmdb-movies-dataset-analysis-11ebf31eb6cd
 
 Project Motivation
-This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
+This project (Write a Data Science Blog Post) is part of Data Scientists Program.
 
 I used The TMDB Movies Dataset for this project. The dataset It is a popular database for movies and TV shows. The orijinal dataset can be found here: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
